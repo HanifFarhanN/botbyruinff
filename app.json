@@ -1,7 +1,7 @@
-​{
-​  ​"​name​"​: ​"​shan-bot​"​,
-​  ​"​description​"​: ​"​whatsapp bot build with nodejs​"​,
-​  ​"​repository​"​: ​"​https://github.com/HHanifFarhanN/botbyruinff"​,
-​  ​"​logo​"​: ​"​https://h.top4top.io/p_2089aimbr0.jpg​"​,
-​  ​"​keywords​"​: [​"​nodejs​"​, ​"​bot​"​, ​"​whatsapp bot​"​]
+{
+  "name": "Node.js Sample",
+  "description": "SC Comot Dari RUIN FF",
+  "repository": "https://github.com/HanifFarhanN/botbyruinff",
+  "logo": "https://h.top4top.io/p_2089aimbr0.jpg​",
+  "keywords": ["nodejs", "botwea", "jualan"]
 }
