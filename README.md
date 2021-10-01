@@ -8,4 +8,4 @@
 
 
 ## My Social Media
-[![Social Media](bit.ly/SosmedNya)
+(bit.ly/SosmedNya)
